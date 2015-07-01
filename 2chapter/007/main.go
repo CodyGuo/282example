@@ -1,5 +1,6 @@
 /*
  * @example: 输出一个三角形
+ * @author: cody.guo
  */
 package main
 
