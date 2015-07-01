@@ -1,5 +1,5 @@
 /*
- * @example: 第一个go语言程序
+ * @example: 第一个Go语言程序
  * @author: cody.guo
  */
 package main
