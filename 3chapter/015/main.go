@@ -16,7 +16,6 @@ func main() {
 					fmt.Printf("%c 将嫁给 A\n", 'X'+A-1)
 					fmt.Printf("%c 将嫁给 B\n", 'X'+B-1)
 					fmt.Printf("%c 将嫁给 C\n", 'X'+C-1)
-					fmt.Println(string('X' + C - 1))
 				}
 			}
 		}
