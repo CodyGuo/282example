@@ -12,6 +12,8 @@ C语言经典编程282例 - `使用go编写`
   <B>实例说明:</B> 是否能够成为真正的编程高手，主要在于是否有毅力坚持学习和练习。本实例要求输出名言`“贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。”`主要是想让读者激励自己，坚持学习Go语言。  
 * [004 用Sublime Text3打开文件](https://github.com/CodyGuo/282example/blob/master/1chapter/004/main.go "用Sublime Text3打开文件")  
   <B>实例说明:</B> 用Sublime Text3开发Go更快速，更方便。  
+* [005 计算正方形的周长](https://github.com/CodyGuo/282example/blob/master/1chapter/005/main.go "计算正方形的周长")  
+  <B>实例说明:</B> 已知正方形的边长为4，根据已知条件计算出正方形的周长并输出。  
 
 ## 第二章
 * [006 输出一个正方形](https://github.com/CodyGuo/282example/blob/master/2chapter/006/main.go "正方形")  
