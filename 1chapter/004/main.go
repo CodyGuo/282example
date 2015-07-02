@@ -9,6 +9,9 @@
 4> 安装支持Go语言的插件：GoSublime
 5> 安装支持git的插件：SublimeGit
 6> 在命令行中输入git config --global credential.helper store
+7> git config --global user.name "CodyGuo"
+8> git config --global user.email "guoxiao219@126.com"
+9> git config --global push.default "matching"
 
 
 C:\Users\Administrator>git config --list
