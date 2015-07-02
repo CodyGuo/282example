@@ -13,9 +13,6 @@ C语言经典编程282例 - `使用go编写`
 * [004 用Sublime Text3打开文件](https://github.com/CodyGuo/282example/blob/master/1chapter/004/main.go "用Sublime Text3打开文件")  
   <B>实例说明:</B> 用Sublime Text3开发Go更快速，更方便。  
 
-
-  用Sublime Text3打开文件
-
 ## 第二章
 * [006 输出一个正方形](https://github.com/CodyGuo/282example/blob/master/2chapter/006/main.go "正方形")  
   <B>实例说明:</B> 使用输出语句输出一个`正方形`。  
