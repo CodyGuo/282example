@@ -12,6 +12,7 @@
 7> git config --global user.name "CodyGuo"
 8> git config --global user.email "guoxiao219@126.com"
 9> git config --global push.default "matching"
+10> 先在cmd中输入git push 把用户名、密码保存，然后在Sublime 中就可以畅快的提交了。
 
 
 C:\Users\Administrator>git config --list
