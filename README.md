@@ -5,7 +5,7 @@ C语言经典编程282例 - `使用go编写`
 # 目录
 ## 第一章
 * [001 第一个Go语言程序](https://github.com/CodyGuo/282example/blob/master/1chapter/001/main.go "Hello, world!")     
-  |<B>实例说明:</B> 输出“Hello world!”是大多数初学者运行调试的第一个程序，可以说输出`"Hello, world!"`是Go语言最简单的程序。 | 
+  <B>实例说明:</B> 输出“Hello world!”是大多数初学者运行调试的第一个程序，可以说输出`"Hello, world!"`是Go语言最简单的程序。  
 * [002 一个完成的Go语言程序](https://github.com/CodyGuo/282example/blob/master/1chapter/002/main.go "sum = a + b, 10 + 20 = 30")  
   <B>实例说明:</B> 用程序求`10+20`，并输出结果。  
 * [003 输出名言](https://github.com/CodyGuo/282example/blob/master/1chapter/003/main.go "贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。")  
