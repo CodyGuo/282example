@@ -1,23 +1,23 @@
 /**
- * 直接插入排序
+ * 希尔排序
  */
 package main
 
 import "fmt"
 
-func insort(s [10]int) {
-	for i := 1; i < len(s); i++ {
-		if s[i] < s[i-1] {
-			// 给监视哨赋值
+func shshort(s [10]int) {
+	n := len(s)
+	d := n / 2
+	for d >= 1 {
+		for i := d + 1; i >= 0 && i < n; i++ {
 			lookout := s[i]
-			j := i - 1
-			for ; j >= 0 && s[j] > lookout; j-- {
-				// 数据右移
-				s[j+1] = s[j]
+			j := i - d
+			for ; j >= 0 && lookout < s[j]; j -= d {
+				s[j+d] = s[j]
 			}
-			// 在确定位置插入监视哨
-			s[j+1] = lookout
+			s[j+d] = lookout
 		}
+		d = d / 2
 	}
 	fmt.Printf("插入数据排序后顺序：\n%v\n", s)
 }
@@ -29,5 +29,5 @@ func main() {
 		fmt.Scanf("%d", &a[i])
 	}
 	fmt.Printf("原始顺序：\n%v\n", a)
-	insort(a)
+	shshort(a)
 }
