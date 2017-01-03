@@ -1,5 +1,6 @@
 # C语言经典编程282例
-C语言经典编程282例 - `使用go编写`
+C语言经典编程282例 - `使用golang实现`
+下载地址：[C语言经典编程282例.pdf](http://git.oschina.net/CodyGuo/book/tree/master/c?dir=1&filepath=c)
 # 练习Go语言基础
 通过C语言的282个经典实例，进一步提升对go的认识。
 # 目录
